@@ -11,7 +11,7 @@ const isMac = os.platform().indexOf('darwin') != -1;
 // Keep a global reference of the window object, if you don't, the window will
 // be closed automatically when the JavaScript object is garbage collected.
 let mainWindow,
-    appName = 'Moodle Desktop', // Default value.
+    appName = 'Arcked Mobile', // Default value.
     isReady = false,
     configRead = false;
 
